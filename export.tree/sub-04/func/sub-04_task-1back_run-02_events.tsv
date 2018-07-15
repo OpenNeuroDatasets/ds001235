@@ -1,0 +1,9 @@
+onset	duration	trial_type
+24.89	6	Luggage_Person
+42.98	6	Cart_Person
+61.08	6	Luggage_Object
+79.17	6	Typewriter_Person
+97.26	6	Computer_Person
+115.35	6	Typewriter_Object
+133.44	6	Computer_Object
+151.55	6	Cart_Object
